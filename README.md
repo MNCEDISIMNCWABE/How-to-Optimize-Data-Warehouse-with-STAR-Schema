@@ -7,4 +7,5 @@ In this repository, I explore the use of an ETL pipeline using a STAR schema dat
 
 # Database Design and ETL Pipeline
 For the schema design, the STAR schema is used as it simplifies queries and provides fast data aggregations and reporting.
+
 <img width="698" alt="image" src="https://github.com/user-attachments/assets/c17a07db-75b3-4a46-860d-cce164788499" />
