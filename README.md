@@ -3,7 +3,8 @@
 Read More on My Blog Post: https://www.analyticsvidhya.com/blog/2024/09/star-schema/
 
 # Description
-In this repository, I explore the use of an ETL pipeline using a STAR schema data design method to create a songs database for a music app. The database will help the music app address business questions regarding its users, including the types of songs they listen to and the artists of those songs, using the available log and song data. The database ensures a consistent and reliable storage solution for this data. This centralized data source is valuable in achieving its analytical objectives, such as identifying the most popular songs.
+The STAR schema is an efficient database design used in data warehousing and business intelligence. It organizes data into a central fact table linked to surrounding dimension tables. This star-like structure simplifies complex queries, enhances performance, and is ideal for large datasets requiring fast retrieval and simplified joins.
+In my blob post, I explore the STAR schema design, demonstrate its setup for optimal query performance with simulated data, and compare it with the Snowflake schema, offering a streamlined approach to data management and analysis
 
 # Database Design and ETL Pipeline
 For the schema design, the STAR schema is used as it simplifies queries and provides fast data aggregations and reporting.
